@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="add_note">Add note</string>
+    <string name="enter_title">Enter title</string>
+    <string name="title">Title</string>
+    <string name="subscribe_my_channel">Subscribe my channel</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
